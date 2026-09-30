@@ -1,0 +1,24 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+
+# Archivos de base de datos local (pueden regenerarse automáticamente con init_db)
+# biblioteca.db
+
+# IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Distribución y empaquetado
+dist/
+build/
+*.spec

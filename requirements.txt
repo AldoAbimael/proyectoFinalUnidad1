@@ -1,0 +1,8 @@
+# Requisitos del proyecto - Sistema de Biblioteca
+# Este proyecto utiliza Python 3.10+ y su biblioteca estándar (tkinter, sqlite3, hashlib, csv).
+
+# Manipulación de imágenes y foto de perfil de usuario (Stack opcional permitido en la rúbrica):
+Pillow>=10.0.0
+
+# Opcional para compilar a ejecutable (.exe):
+# pyinstaller>=6.0.0
